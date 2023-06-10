@@ -6,13 +6,7 @@
     font-family: Helvetica, Georgia, serif;
 }
 
-.main-page-description {
-    text-align: center;
-}
-
-.classic-waffles-heading,
-.apple-fritter-pancakes-heading,
-.overnight-pineapple-banana-oatmeal-heading {
+.text-center {
     text-align: center;
 }
 
