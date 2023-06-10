@@ -16,9 +16,7 @@
     text-align: center;
 }
 
-.classic-waffles-jpg,
-.apple-fritter-pancakes-jpg,
-.overnight-pineapple-banana-oatmeal-jpg {
+.img-centered {
     display: block;
     margin-left: auto;
     margin-right: auto;
