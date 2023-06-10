@@ -1,6 +1,7 @@
 .main-page,
 .classic-waffles,
-.apple-fritter-pancakes {
+.apple-fritter-pancakes,
+.overnight-pineapple-banana-oatmeal {
     background-color: lightsteelblue;
     font-family: Helvetica, Georgia, serif;
 }
@@ -10,12 +11,14 @@
 }
 
 .classic-waffles-heading,
-.apple-fritter-pancakes-heading {
+.apple-fritter-pancakes-heading,
+.overnight-pineapple-banana-oatmeal-heading {
     text-align: center;
 }
 
 .classic-waffles-jpg,
-.apple-fritter-pancakes-jpg {
+.apple-fritter-pancakes-jpg,
+.overnight-pineapple-banana-oatmeal-jpg {
     display: block;
     margin-left: auto;
     margin-right: auto;
