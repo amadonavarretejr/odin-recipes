@@ -1,0 +1,9 @@
+.main-page {
+    background-color: lightsteelblue;
+    font-family: Helvetica, Georgia, serif;
+}
+
+h1,
+p {
+    text-align: center;
+}
