@@ -1,5 +1,6 @@
 .main-page,
-.classic-waffles {
+.classic-waffles,
+.apple-fritter-pancakes {
     background-color: lightsteelblue;
     font-family: Helvetica, Georgia, serif;
 }
@@ -8,11 +9,13 @@
     text-align: center;
 }
 
-.classic-waffles-heading {
+.classic-waffles-heading,
+.apple-fritter-pancakes-heading {
     text-align: center;
 }
 
-.classic-waffles-jpg {
+.classic-waffles-jpg,
+.apple-fritter-pancakes-jpg {
     display: block;
     margin-left: auto;
     margin-right: auto;
