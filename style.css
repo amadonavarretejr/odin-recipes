@@ -21,3 +21,10 @@
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
 }
 
+.cooks-note {
+    border-radius: 30px;
+    background-color: slategray;
+    display: block;
+    padding: 20px;
+    margin: 18px;
+}
