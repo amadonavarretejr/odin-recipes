@@ -45,3 +45,8 @@
 .heading {
     margin: 19px;
 }
+
+.description {
+    text-align: center;
+    padding: 15px;
+}
