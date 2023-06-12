@@ -63,7 +63,7 @@
     background-color: rgb(123, 104, 238);
     color: white;
     text-decoration: none;
-    border: none;
+    border: 4px solid rgb(138, 43, 226);
     border-radius: 6px;
     cursor: pointer;
 }
