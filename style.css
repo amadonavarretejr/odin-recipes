@@ -38,8 +38,20 @@
     margin: 18px;
 }
 
-.return-link {
+.return-link-button {
     margin-left: 19px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(123, 104, 238);
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.return-link-button:hover {
+    background-color: rgb(86, 72, 163);
 }
 
 .heading {
