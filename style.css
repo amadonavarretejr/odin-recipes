@@ -7,12 +7,12 @@
 }
 
 .browse-recipes-card {
-    border: 3px dotted whitesmoke;
+    border: 3px dotted rgb(245, 245, 245);
     border-radius: 30px;
     background-color: lightblue;
-    display: inline-block;
-    padding: 50px;
-    margin: 35px;
+    display: block;
+    padding: 20px;
+    margin: 10px 60px;
 }
 
 .recipe-button {
